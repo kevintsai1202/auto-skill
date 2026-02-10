@@ -27,7 +27,7 @@ Auto‑Skill 是一個為 AI Assistant 設計的元技能（Meta‑Skill）。�
 - **General Knowledge**：通用流程、偏好、風格
 - **Skill Experience**：特定技能的參數、錯誤解法
 
-![autoload](auto-upload-knowlege.png)
+![autoload](assets/auto-upload-knowlege.png)
 
 ---
 
